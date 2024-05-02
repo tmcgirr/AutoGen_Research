@@ -1,0 +1,11 @@
+ipython==8.12.3
+langchain==0.1.17
+langchain_community==0.0.36
+langchain_core==0.1.48
+langchain_openai==0.1.5
+langgraph==0.0.40
+Pillow==9.5.0
+Pillow==10.3.0
+playwright==1.43.0
+python-dotenv==1.0.1
+typing_extensions==4.11.0
