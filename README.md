@@ -1,4 +1,6 @@
-# AutoGen with Web Voyager Tool
+# AutoGen Research Group with Web Voyager Tool 
+
+A simple AutoGen Group Chat with a WebVoyager Tool for the research agent.
 
 Inspired by: https://github.com/langchain-ai/langgraph/blob/main/examples/web-navigation/web_voyager.ipynb
 
